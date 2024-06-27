@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @nour-hany
-- 👀 I’m interested in Machine Lerning
-- 🌱 I’m currently learning grade 12
-- 💞️ I’m looking to collaborate on openCV
 - 📫 mail nour.hany1357@gmail.com 
 
 <!---
